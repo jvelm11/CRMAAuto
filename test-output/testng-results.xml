@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Found TitleCRMPRO]]>
+    </line>
+    <line>
+      <![CDATA[Actual Logo Displayed isCRMPRO]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20648" started-at="2019-08-19T10:37:54Z" finished-at="2019-08-19T10:38:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20648" started-at="2019-08-19T10:37:54Z" finished-at="2019-08-19T10:38:14Z">
+      <class name="testscripts.LoginTest">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:testscripts.LoginTest@47c62251]" name="setBrowser" is-config="true" duration-ms="18879" started-at="2019-08-19T10:37:54Z" finished-at="2019-08-19T10:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:testscripts.LoginTest@47c62251]" name="loginTest" duration-ms="1728" started-at="2019-08-19T10:38:12Z" finished-at="2019-08-19T10:38:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Found TitleCRMPRO]]>
+            </line>
+            <line>
+              <![CDATA[Actual Logo Displayed isCRMPRO]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- testscripts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
